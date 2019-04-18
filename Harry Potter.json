@@ -255,7 +255,7 @@
     },
     {
       "title": "Dragon Species of Great Britain and Ireland",
-      "category": ["Biology"],
+      "category": ["Scholarly", "Biology"],
       "description": "This spectacular book lists all of the wild dragons living in Britain and Ireland today, from the Common Welsh Green to Hebridean Blacks."
     }, {
       "title": "From Egg to Inferno: a Dragon-Keeper's Guide",
@@ -264,6 +264,96 @@
     }, {
       "title": "From Egg to Inferno: a Dragon-Keeper's Guide",
       "category": ["Biology"]
+    }, {
+      "title": "The Handbook of Hippogriff Psychology",
+      "category": ["Scholarly", "Biology"]
+    }, {
+      "title": "Fowl or Foul? A Study of Hippogriff Brutality",
+      "category": ["Scholarly", "Biology"]
+    }, {
+      "title": "Blood Brothers: My Life Amongst the Vampires",
+      "author": "Eldred Worple",
+      "category": ["Scholarly", "Story"]
+    }, {
+      "title": "A Vampire's Monologue",
+      "author": "Amarillo Lestoat",
+      "category": ["Scholarly", "Story"]
+    }, {
+      "title": "Voyages with Vampires",
+      "author": "Gilderoy Lockhart",
+      "category": ["Story", "History"]
+    }, {
+      "title": "Hairy Snout, Human Heart",
+      "author": "Anonymous",
+      "category": ["Story"]
+    }, {
+      "title": "Hunting Werewolves",
+      "category": []
+    }, {
+      "title": "Lupine Lawlessness: Why Lycanthropes Don't Deserve to Live",
+      "author": "Professor Emerett Picardy",
+      "category": [""]
+    }, {
+      "title": "Wanderings with Werewolves",
+      "author": "Gilderoy Lockhart",
+      "description": "Learn about Gilderoy Lockhart’s experiences of werewolves, and his favourite birthday gift.",
+      "category": ["Story", "History"]
+    }, {
+      "title": "Encyclopedia of Toadstools",
+      "description": "Everything you ever wanted to know about toadstools.",
+      "category": ["Scholarly", "Biology", "Alchemy"]
+    }, {
+      "title": "Flesh-Eating Trees of the World",
+      "category": ["Scholarly", "Biology", "Alchemy"]
+    }, {
+      "title": "Goshawk's Guide to Herbology",
+      "author": "Miranda Goshawk",
+      "description": "If you're interested in plants, then you're better off with Goshawk's Guide To Herbology. Did you know there's a wizard in Nepal who's growing gravity-resistant trees?",
+      "category": ["Scholarly", "Biology", "Alchemy"]
+    }, {
+      "title": "Ingredient Encyclopedia",
+      "category": ["Scholarly", "Biology", "Alchemy"]
+    },
+    {
+      "title": "Magical Water Plants of the Highland Lochs",
+      "category": ["Scholarly", "Biology", "Alchemy"],
+      "author": "Hadrian Whittle"
+    }, {
+      "title": "Magical Mediterranean Water-Plants and Their Properties",
+      "category": ["Scholarly", "Biology", "Alchemy"],
+      "author": "Hadrian Whittle"
+    }, {
+      "title": "One Thousand Magical Herbs and Fungi",
+      "category": ["Scholarly", "Biology", "Alchemy"],
+      "author": "Hogwarts Headmistress Phyllida Spore",
+      "description": "A comprehensive botanical A-Z of magical herbs and fungi for easy plant identification and application."
+    }, {
+      "title": "Shrubs & Trees for the Garden",
+      "category": ["Scholarly", "Biology", "Alchemy"],
+      "author": "A. Osborn"
+    }, {
+      "title": "Sub-Aquatic Botanical Mysteries",
+      "category": ["Scholarly", "Biology", "Alchemy"],
+      "author": "Quiac Marinus"
+    }, {
+      "title": "Wanderings of a Tree in the Alps Vol. I",
+      "category": ["Story"]
+    }, {
+      "title": "Wanderings of a Tree in the Alps Vol. II",
+      "category": ["Story"]
+    }, {
+      "title": "Wanderings of a Tree in the Alps Vol. III",
+      "category": ["Story"]
+    }, {
+      "title": "Wanderings of a Tree in the Alps Vol. IV",
+      "category": ["Story"]
+    }, {
+      "title": "Wanderings of a Tree in the Alps Vol. V",
+      "category": ["Story"]
+    }, {
+      "title": "Winogrand's Wondrous Water Plants",
+      "category": ["Scholarly", "Biology", "Alchemy"],
+      "author": "Selina Sapworthy"
     }
   ]
 }
