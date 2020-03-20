@@ -1,6 +1,6 @@
 {
   "$schema": "../../books-schema.json",
-  "sources": [],
+  "sources": ["https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"],
   "books": [
     {
       "title": "A Study in Scarlet",
