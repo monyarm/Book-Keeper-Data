@@ -1,5 +1,5 @@
 {
-  "$schema": "../books-schema.json",
+  "$schema": "../../books-schema.json",
   "sources": ["https://simpsonswiki.com/"],
   "books": [{
     "title": "How To Cook For Forty Humans And Then Eat Them",

@@ -1,0 +1,92 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "arnima.esm"
+  ],
+  "books": [
+    {
+      "title": "The lost Lord",
+      "category": []
+    },
+    {
+      "title": "Witchmen: Pox of the North",
+      "category": []
+    },
+    {
+      "title": "Direnni: The Blackest Market",
+      "category": []
+    },
+    {
+      "title": "The Towers that Bind",
+      "category": []
+    },
+    {
+      "title": "The Hecularana",
+      "category": []
+    },
+    {
+      "title": "The Hecularana: Volume II",
+      "category": []
+    },
+    {
+      "title": "The Hecularana: Volume III",
+      "category": []
+    },
+    {
+      "title": "The Hecularana: Volume IV",
+      "category": []
+    },
+    {
+      "title": "Transcendence",
+      "category": []
+    },
+    {
+      "title": "Mados: Documents of Valor Vol I",
+      "category": []
+    },
+    {
+      "title": "Mados: Documents of Valor Vol II",
+      "category": []
+    },
+    {
+      "title": "Mados: Documents of Valor Vol III",
+      "category": []
+    },
+    {
+      "title": "The Wretched Form",
+      "category": []
+    },
+    {
+      "title": "Delivery paper",
+      "category": []
+    },
+    {
+      "title": "Citizen in Need",
+      "category": []
+    },
+    {
+      "title": "Black Book: Epistolary Acumen",
+      "category": []
+    },
+    {
+      "title": "Black Book: Power Caesarean",
+      "category": []
+    },
+    {
+      "title": "Mother's Muse Vol 1",
+      "category": []
+    },
+    {
+      "title": "Mother's Muse Vol 2",
+      "category": []
+    },
+    {
+      "title": "Mother's Muse Vol.3",
+      "category": []
+    },
+    {
+      "title": "Seek it out",
+      "category": []
+    }
+  ]
+}

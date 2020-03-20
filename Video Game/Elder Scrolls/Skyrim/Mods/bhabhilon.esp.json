@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "bhabhilon.esp"
+  ],
+  "books": [
+    {
+      "title": "Hanging Gardens Reprint",
+      "category": []
+    },
+    {
+      "title": "Dwemer Animunculi",
+      "category": []
+    }
+  ]
+}

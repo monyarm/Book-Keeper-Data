@@ -1,0 +1,48 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "TheBawbsShire.esp"
+  ],
+  "books": [
+    {
+      "title": "Teleport to Halfling Home",
+      "category": []
+    },
+    {
+      "title": "The Rangers and the Sea of Wrun V1",
+      "category": []
+    },
+    {
+      "title": "Gone And Home Again",
+      "category": []
+    },
+    {
+      "title": "Ruffian Plans",
+      "category": []
+    },
+    {
+      "title": "Lesson in Elvish #1",
+      "category": []
+    },
+    {
+      "title": "Lesson in Elvish #2",
+      "category": []
+    },
+    {
+      "title": "Lesson in Elvish #3",
+      "category": []
+    },
+    {
+      "title": "Lesson in Elvish #4",
+      "category": []
+    },
+    {
+      "title": "Tinruth's Fantasy Tale",
+      "category": []
+    },
+    {
+      "title": "Archery Scoring",
+      "category": []
+    }
+  ]
+}

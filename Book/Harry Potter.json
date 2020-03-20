@@ -1,5 +1,5 @@
 {
-  "$schema": "../books-schema.json",
+  "$schema": "../../books-schema.json",
   "sources": ["https://harrypotter.fandom.com/wiki/List_of_books"],
   "books": [
     {

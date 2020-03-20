@@ -1,5 +1,5 @@
 {
-    "$schema": "../books-schema.json",
+    "$schema": "../../books-schema.json",
     "sources": [
         "https://middle-earth.xenite.org/what-are-the-various-books-named-in-the-lord-of-the-rings/"
     ],

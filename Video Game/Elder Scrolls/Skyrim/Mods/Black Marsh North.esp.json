@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Black Marsh North.esp"
+  ],
+  "books": [
+    {
+      "title": "Portal to our master",
+      "category": []
+    },
+    {
+      "title": "Welcome to Black Marsh",
+      "category": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "Lexica Botanica",
+      "category": ["Biology", "Alchemy", "Spellbook", "Scholarly"]
+    },
+    {
+      "title": "Arcane Compendium",
+      "category": ["Spellbook", "Scholarly"]
+    },
+    {
+      "title": "Astral Tome",
+      "category": ["Spellbook", "Scholarly"]
+    },
+    {
+      "title": "Book of Biomes",
+      "category": ["Biology", "Scholarly"]
+    },
+    {
+      "title": "Book of Alloys, Smeltery Edition",
+      "category": []
+    },
+    {
+      "title": "Book of Herblore",
+      "category": ["Biology", "Alchemy", "Spellbook", "Scholarly"]
+    },
+    {
+      "title": "Book of Spellcraft",
+      "category": ["Spellbook", "Scholarly"]
+    },
+    {
+      "title": "Book of the Natural Arts",
+      "category": ["Spellbook", "Scholarly", "Myth"]
+    },
+    {
+      "title": "Book of the Well",
+      "category": []
+    },
+    {
+      "title": "Chromic Lexicon",
+      "category": []
+    },
+    {
+      "title": "ENHANCED PORTALS: wormhole tunneling",
+      "category": []
+    },
+    {
+      "title": "Esteemed Innovation",
+      "category": []
+    },
+    {
+      "title": "Handbook of Prodigies",
+      "category": []
+    },
+    {
+      "title": "Juiciest Wares",
+      "category": []
+    },
+    {
+      "title": "Observations of an Immortal",
+      "category": []
+    },
+    {
+      "title": "On the Dynamics of Integration",
+      "category": []
+    },
+    {
+      "title": "Spellforger's Codex",
+      "category": []
+    },
+    {
+      "title": "Strange Dreams",
+      "category": []
+    },
+    {
+      "title": "Thaumonomicon",
+      "category": []
+    },
+    {
+      "title": "Totempedia",
+      "category": []
+    },
+    {
+      "title": "Witchcraft: Brews & Infusions",
+      "category": ["Spellbook", "Alchemy"]
+    },
+    {
+      "title": "Witchcraft: Circle Magic",
+      "category": ["Spellbook"]
+    },
+    {
+      "title": "Witchcraft: Collecting Fumes",
+      "category": ["Spellbook", "Alchemy"]
+    },
+    {
+      "title": "Witchcraft: Conjuration & Fetishes",
+      "category": ["Spellbook"]
+    },
+    {
+      "title": "Witchcraft: Distilling",
+      "category": ["Spellbook", "Alchemy"]
+    },
+    {
+      "title": "Witchcraft: Herbology",
+      "category": ["Spellbook", "Alchemy", "Biology"]
+    },
+    {
+      "title": "Witchcraft: Symbology",
+      "category": ["Spellbook"]
+    },
+    {
+      "title": "Witches' Brews",
+      "category": ["Spellbook", "Alchemy"]
+    }
+  ]
+}

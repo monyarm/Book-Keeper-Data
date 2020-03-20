@@ -1,0 +1,60 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "HammetDungeons.esm"
+  ],
+  "books": [
+    {
+      "title": "Guardians of the Priest",
+      "category": []
+    },
+    {
+      "title": "Norok's Last Words",
+      "category": []
+    },
+    {
+      "title": "Vhulon's Elegy",
+      "category": []
+    },
+    {
+      "title": "The Elemental Witches of Vuldur",
+      "category": []
+    },
+    {
+      "title": "Overlord Avuldmir and His Rangers",
+      "category": []
+    },
+    {
+      "title": "Keepers of the Sanctum",
+      "category": []
+    },
+    {
+      "title": "Hokimir's Claymore",
+      "category": []
+    },
+    {
+      "title": "Ingulfrid and Her Lords of Chaos",
+      "category": []
+    },
+    {
+      "title": "Ghost of Whiteshore",
+      "category": []
+    },
+    {
+      "title": "Whiteshore Camp",
+      "category": []
+    },
+    {
+      "title": "The Lost Relic of Lord Hammet",
+      "category": []
+    },
+    {
+      "title": "A strange weapon",
+      "category": []
+    },
+    {
+      "title": "Vuldur and His Disciples",
+      "category": []
+    }
+  ]
+}

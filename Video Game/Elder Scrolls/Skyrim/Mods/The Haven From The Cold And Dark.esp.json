@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "The Haven From The Cold And Dark.esp"
+  ],
+  "books": [
+    {
+      "title": "Invitation To The Haven",
+      "category": []
+    },
+    {
+      "title": "Nevariad's Inventory",
+      "category": []
+    }
+  ]
+}

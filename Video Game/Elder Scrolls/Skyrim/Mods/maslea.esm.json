@@ -1,0 +1,148 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "maslea.esm"
+  ],
+  "books": [
+    {
+      "title": "Bark and Sap",
+      "category": []
+    },
+    {
+      "title": "Zealotry",
+      "category": []
+    },
+    {
+      "title": "Saints and Seducers",
+      "category": []
+    },
+    {
+      "title": "Heretical Thoughts",
+      "category": []
+    },
+    {
+      "title": "The Predecessors",
+      "category": []
+    },
+    {
+      "title": "The Standing Stones",
+      "category": []
+    },
+    {
+      "title": "The Blessings of Sheogorath",
+      "category": []
+    },
+    {
+      "title": "From Frog to Man",
+      "category": []
+    },
+    {
+      "title": "The Prophet Arden-Sul",
+      "category": []
+    },
+    {
+      "title": "Fall of Vitharn",
+      "category": []
+    },
+    {
+      "title": "As promised",
+      "category": []
+    },
+    {
+      "title": "The Path of Freedom",
+      "category": []
+    },
+    {
+      "title": "Kinlord Rilis And The Mages Guild Lorebook",
+      "category": []
+    },
+    {
+      "title": "The Fall of Carac Dena",
+      "category": []
+    },
+    {
+      "title": "The Chim El-Adabal",
+      "category": []
+    },
+    {
+      "title": "The Origins of Conjuration",
+      "category": []
+    },
+    {
+      "title": "Treaty on the Maslmer",
+      "category": []
+    },
+    {
+      "title": "Worrisome disappearance",
+      "category": []
+    },
+    {
+      "title": "The Maslean Courier: Closing of the gates",
+      "category": []
+    },
+    {
+      "title": "Study on Maslmer Glyphs",
+      "category": []
+    },
+    {
+      "title": "The Maslean Courier: Incident at Fort Palios",
+      "category": []
+    },
+    {
+      "title": "The Maslean Courier: End of the dragon crisis",
+      "category": []
+    },
+    {
+      "title": "The Maslean Courier: Victory of the Empire in Skyrim",
+      "category": []
+    },
+    {
+      "title": "The Maslean Courier: Victory of the rebels in Skyrim",
+      "category": []
+    },
+    {
+      "title": "The Sermons of Saint Velinus: The Psalm of Faith",
+      "category": []
+    },
+    {
+      "title": "Book of Deliveries",
+      "category": []
+    },
+    {
+      "title": "Bandits at the Coast",
+      "category": []
+    },
+    {
+      "title": "The Klepthe Problem",
+      "category": []
+    },
+    {
+      "title": "History of Paluseuil",
+      "category": []
+    },
+    {
+      "title": "Bestiary of Maslea, First Part",
+      "category": []
+    },
+    {
+      "title": "The History of Maslea, Chapter 2",
+      "category": []
+    },
+    {
+      "title": "The History of Maslea, Chapter 3",
+      "category": []
+    },
+    {
+      "title": "The History of Maslea, Chapter 1",
+      "category": []
+    },
+    {
+      "title": "The Very Magnanimous King Fahara'jad",
+      "category": []
+    },
+    {
+      "title": "Jorunn the Skald King",
+      "category": []
+    }
+  ]
+}

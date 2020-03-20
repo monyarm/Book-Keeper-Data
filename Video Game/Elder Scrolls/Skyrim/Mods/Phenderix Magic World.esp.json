@@ -1,0 +1,60 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Phenderix Magic World.esp"
+  ],
+  "books": [
+    {
+      "title": "Water Encounter Hints",
+      "category": []
+    },
+    {
+      "title": "Phenderix's Essence Spells",
+      "category": []
+    },
+    {
+      "title": "Phenderix Polls",
+      "category": []
+    },
+    {
+      "title": "Fire Magic, Vol. I",
+      "category": []
+    },
+    {
+      "title": "Green House",
+      "category": []
+    },
+    {
+      "title": "Red House",
+      "category": []
+    },
+    {
+      "title": "Yellow House",
+      "category": []
+    },
+    {
+      "title": "Blue House",
+      "category": []
+    },
+    {
+      "title": "Fortified Items",
+      "category": []
+    },
+    {
+      "title": "Blood Magic",
+      "category": []
+    },
+    {
+      "title": "Spirit Magic",
+      "category": []
+    },
+    {
+      "title": "Phenderix's Magic Evolved",
+      "category": []
+    },
+    {
+      "title": "Apotek Reservations",
+      "category": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Falskaar.esm"
+  ],
+  "books": [
+    {
+      "title": "On Sheogorath and the Mad Beggar",
+      "category": []
+    },
+    {
+      "title": "Olav's Journey",
+      "category": []
+    },
+    {
+      "title": "In Case I forget",
+      "category": []
+    },
+    {
+      "title": "A Dark Awakening",
+      "category": []
+    },
+    {
+      "title": "Dragons In Falskaar",
+      "category": []
+    },
+    {
+      "title": "Amber Creek Home Decorating Guide",
+      "category": []
+    },
+    {
+      "title": "The Heart Chamber",
+      "category": []
+    },
+    {
+      "title": "Nordic Caves",
+      "category": []
+    },
+    {
+      "title": "A Strange Sighting",
+      "category": []
+    },
+    {
+      "title": "Save Yourself!",
+      "category": []
+    },
+    {
+      "title": "Setup Camp",
+      "category": []
+    },
+    {
+      "title": "The Same in Death",
+      "category": []
+    },
+    {
+      "title": "The Power of Darkness",
+      "category": []
+    },
+    {
+      "title": "Ballad of the Bard",
+      "category": []
+    },
+    {
+      "title": "Secrets of Horndew Lodge",
+      "category": []
+    },
+    {
+      "title": "Rite of Lord Garjeheim",
+      "category": []
+    },
+    {
+      "title": "War in Falskaar",
+      "category": []
+    },
+    {
+      "title": "The Wanderin' Bard",
+      "category": []
+    },
+    {
+      "title": "The Mead of Shor",
+      "category": []
+    },
+    {
+      "title": "The Four Holds",
+      "category": []
+    }
+  ]
+}

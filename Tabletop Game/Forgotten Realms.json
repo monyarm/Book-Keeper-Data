@@ -1,5 +1,5 @@
 {
-  "$schema": "../books-schema.json",
+  "$schema": "../../books-schema.json",
   "sources": ["https://forgottenrealms.fandom.com/wiki/Category:Books_(in-universe)"],
   "books": [{
     "title": "A Dove at Dawn",

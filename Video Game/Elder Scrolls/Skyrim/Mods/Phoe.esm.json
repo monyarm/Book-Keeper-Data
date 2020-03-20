@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Phoe.esm"
+  ],
+  "books": [
+    {
+      "title": "Akaviri Wildlife",
+      "category": []
+    },
+    {
+      "title": "Tei History",
+      "category": []
+    },
+    {
+      "title": "Arcane Stone: Ignite",
+      "category": []
+    },
+    {
+      "title": "Arcane Stone: Frost Fire",
+      "category": []
+    }
+  ]
+}

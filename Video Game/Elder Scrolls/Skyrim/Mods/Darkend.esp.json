@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Darkend.esp"
+  ],
+  "books": [
+    {
+      "title": "Subject 18",
+      "category": []
+    },
+    {
+      "title": "The Storm and Her Captain",
+      "category": []
+    }
+  ]
+}

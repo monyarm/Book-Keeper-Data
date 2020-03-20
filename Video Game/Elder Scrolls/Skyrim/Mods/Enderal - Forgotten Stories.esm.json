@@ -1,0 +1,224 @@
+{
+  "$schema": "../../../../../books-schema.json",
+  "sources": [
+    "Enderal - Forgotten Stories.esm"
+  ],
+  "books": [
+    {
+      "title": "A Village in Turmoil",
+      "category": []
+    },
+    {
+      "title": "Vyn - A Geographical Overview",
+      "category": []
+    },
+    {
+      "title": "Encyclopedia Arcana - Magic, Part I",
+      "category": []
+    },
+    {
+      "title": "Encyclopedia Arcana - Magic, Part II",
+      "category": []
+    },
+    {
+      "title": "Encyclopedia Arcana - Magic, Part III",
+      "category": []
+    },
+    {
+      "title": "Account of an Unknown Traveler, Volume 1",
+      "category": []
+    },
+    {
+      "title": "The Holy Order",
+      "category": []
+    },
+    {
+      "title": "The Crystal Jellyfish - Its Physique and Use in Alchemy",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 12: The Star Summer Night",
+      "category": []
+    },
+    {
+      "title": "Manual of Dreams and Visions",
+      "category": []
+    },
+    {
+      "title": "The Disciplines of Magic - Entropy",
+      "category": []
+    },
+    {
+      "title": "Myths and Legends: The Blind Miner",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 3: First Steps",
+      "category": []
+    },
+    {
+      "title": "Glimmercapdust - Use and Dangers",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 4: Ashes",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 5: Qalian",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 6: The Silver Cloud",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 7: All the Dead Souls",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 8: Masks",
+      "category": []
+    },
+    {
+      "title": "Contract of the Golden Sickle",
+      "category": []
+    },
+    {
+      "title": "The Butcher of Ark, Volume 9: The Rise",
+      "category": []
+    },
+    {
+      "title": "Daddy's Savoury Meat Pies",
+      "category": []
+    },
+    {
+      "title": "Lethonia - Myth or Reality?",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 1: The Chaos",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 2: The Epiphany",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 3: The Gods",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 4: The Departure",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 5: The Hunger Days",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 6: The Lost Ones",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 7: The Kraken",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 8: The Arrival",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 9: The Fundament",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 10: The Order",
+      "category": []
+    },
+    {
+      "title": "The Path, Tome 11: The Treason",
+      "category": []
+    },
+    {
+      "title": "Final Words",
+      "category": []
+    },
+    {
+      "title": "Myths and Legends: The Steel Warden",
+      "category": []
+    },
+    {
+      "title": "Myths and Legends: The Ash Widow",
+      "category": []
+    },
+    {
+      "title": "Tales of the Wanderer: The Archer from the Steppe",
+      "category": []
+    },
+    {
+      "title": "Myths and Legends: The Gargantuan Lizard",
+      "category": []
+    },
+    {
+      "title": "Tales of the Wanderer: The Dark Keeper",
+      "category": []
+    },
+    {
+      "title": "Tales of the Wanderer: The Shadow Dancer",
+      "category": []
+    },
+    {
+      "title": "Myths and Legends: Arveldhiin the Wanderer",
+      "category": []
+    },
+    {
+      "title": "Tales of the Wanderer: The Seraph",
+      "category": []
+    },
+    {
+      "title": "Tales of the Wanderer: The Blade Master",
+      "category": []
+    },
+    {
+      "title": "The Creed",
+      "category": []
+    },
+    {
+      "title": "Kadath",
+      "category": []
+    },
+    {
+      "title": "The Dreamflower: An Essay",
+      "category": []
+    },
+    {
+      "title": "A Token of Goodwill",
+      "category": []
+    },
+    {
+      "title": "A Strange Friend",
+      "category": []
+    },
+    {
+      "title": "Mother's Pain",
+      "category": []
+    },
+    {
+      "title": "Conversation with a Blind Man",
+      "category": []
+    },
+    {
+      "title": "Concerning the Holiness of the Order",
+      "category": []
+    },
+    {
+      "title": "The Little Mouse Mitata",
+      "category": []
+    },
+    {
+      "title": "Document of the Holy Order concerning the rifts in the intercontinental temporal fabric",
+      "category": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Black Marsh.esm"
+  ],
+  "books": [
+    {
+      "title": "Finally",
+      "category": []
+    },
+    {
+      "title": "Refuge",
+      "category": []
+    },
+    {
+      "title": "Lost Gods",
+      "category": []
+    }
+  ]
+}

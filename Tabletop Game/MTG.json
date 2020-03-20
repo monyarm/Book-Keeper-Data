@@ -1,5 +1,5 @@
 {
-  "$schema": "../books-schema.json",
+  "$schema": "../../books-schema.json",
   "sources": [
     "https://www.reddit.com/r/DnDBehindTheScreen/comments/aoiwvq/need_help_stocking_a_library_list_of_all/"
   ],
