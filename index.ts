@@ -139,7 +139,7 @@ import SCP from './Web/SCP.json';
 //#endregion
 
 function convert(input: Array<any>) {
-    let tempBooks: Book[] = [];
+    const tempBooks: Book[] = [];
     input.forEach(
         (x: any) => {
             tempBooks.push(new Book(x.title, x.category, x.translatedTitle, x.language, x.sources, x.description, x.author, x.selected));
