@@ -18,6 +18,7 @@ import Marvel from './Comic/Marvel.json';
 
 //#region Movies
 import Frankenstein from './Movie/Frankenstein.json';
+import MCU from './Movie/MCU.json';
 //#endregion
 
 //#region Real Life
@@ -179,6 +180,9 @@ const BooksArray: BookGroup[] = [
     new BookGroup('Movie', [
         new BookGroup(
             'Frankenstein', convert(Frankenstein.books)
+        ),
+        new BookGroup(
+            'MCU', convert(MCU.books)
         )
     ]
     ),

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": ["https://marvelcinematicuniverse.fandom.com/"],
+  "books": [
+    {
+      "title": "Book of the Invisible Sun",
+      "category": [] 
+    },
+    {
+      "title": "Book of Yggdrasil",
+      "category": [] 
+    },
+    {
+      "title": "Book of Gibborim",
+      "category": [] 
+    },
+    {
+      "title": "Book of Cagliostro",
+      "category": [] 
+    },
+    {
+      "title": "Darkhold",
+      "category": [] 
+    },
+    {
+      "title": "Book of Sins",
+      "category": [] 
+    },
+    {
+      "title": "Myths and Ledgends From Around the World",
+      "author": "Anneka Sunden",
+      "category": [] 
+    },
+    {
+      "title": "One Batch, Two Batch",
+      "category": [] 
+    },
+    {
+      "title": "Inventory of Rare and Endangered Tracheophyta of Amazônia",
+      "category": [] 
+    },
+    {
+      "title": "Codex Imperium",
+      "category": [] 
+    },
+    {
+      "title": "Maxim's Primer",
+      "category": [] 
+    }
+  ]
+}
