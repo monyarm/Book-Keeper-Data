@@ -1,0 +1,746 @@
+{
+  "$schema": "../../../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "The Day I Became a Shinigami",
+      "category": []
+    },
+    {
+      "title": "The Shinigami's Work",
+      "category": []
+    },
+    {
+      "title": "The Older Brother's Wish, the Younger Sister's Wish",
+      "category": []
+    },
+    {
+      "title": "Cursed Parakeet",
+      "category": []
+    },
+    {
+      "title": "Beat the Invisible Enemy!",
+      "category": []
+    },
+    {
+      "title": "Fight to the Death!",
+      "category": []
+    },
+    {
+      "title": "Greetings from a Stuffed Lion",
+      "category": []
+    },
+    {
+      "title": "June 17, Memories in the Rain",
+      "category": []
+    },
+    {
+      "title": "Unbeatable Enemy",
+      "category": []
+    },
+    {
+      "title": "Casual Soul Realm Assault Trip!",
+      "category": []
+    },
+    {
+      "title": "The Legendary Quincy",
+      "category": []
+    },
+    {
+      "title": "A Gentle Right Arm",
+      "category": []
+    },
+    {
+      "title": "Flower and Hollow",
+      "category": []
+    },
+    {
+      "title": "Back to Back, a Fight to the Death!",
+      "category": []
+    },
+    {
+      "title": "Reclaim! The Power of the Shinigami",
+      "category": []
+    },
+    {
+      "title": "Enter! The World of the Shinigami",
+      "category": []
+    },
+    {
+      "title": "The Man who Hates Shinigami",
+      "category": []
+    },
+    {
+      "title": "Penetrate the Center with an Enormous Bombshell?",
+      "category": []
+    },
+    {
+      "title": "Formation! The Worst Tag",
+      "category": []
+    },
+    {
+      "title": "Release the Death Blow!",
+      "category": []
+    },
+    {
+      "title": "Breakthrough! The Shinigami's Encompassing Net",
+      "category": []
+    },
+    {
+      "title": "The Resolution to Kill",
+      "category": []
+    },
+    {
+      "title": "The Star and the Stray Dog",
+      "category": []
+    },
+    {
+      "title": "Miracle! The Mysterious New Hero",
+      "category": []
+    },
+    {
+      "title": "Tragedy of Dawn",
+      "category": []
+    },
+    {
+      "title": "The Darkness which Approaches",
+      "category": []
+    },
+    {
+      "title": "Motive of the Fist",
+      "category": []
+    },
+    {
+      "title": "Desperation! The Broken Zangetsu",
+      "category": []
+    },
+    {
+      "title": "The Immortal Man",
+      "category": []
+    },
+    {
+      "title": "The Despicable Shinigami",
+      "category": []
+    },
+    {
+      "title": "Overcome Your Limits!",
+      "category": []
+    },
+    {
+      "title": "Authentic Records! School of Shinigami",
+      "category": []
+    },
+    {
+      "title": "The Reviving Lion",
+      "category": []
+    },
+    {
+      "title": "Morning of the Sentence",
+      "category": []
+    },
+    {
+      "title": "Oath of the Soul! Death Match",
+      "category": []
+    },
+    {
+      "title": "Temptation, Resolution Shattered",
+      "category": []
+    },
+    {
+      "title": "An Accomplished Oath!",
+      "category": []
+    },
+    {
+      "title": "The Strongest Shinigami! Ultimate Confrontation Between Teacher and Students",
+      "category": []
+    },
+    {
+      "title": "Supersonic Battle! Determine the Goddess of Battle",
+      "category": []
+    },
+    {
+      "title": "Senbonzakura, Crushed! Zangetsu Thrusts through the Sky",
+      "category": []
+    },
+    {
+      "title": "Unseal! The Black Blade, the Miraculous Power",
+      "category": []
+    },
+    {
+      "title": "Conclusion of the Death Match! White Pride and Black Desire",
+      "category": []
+    },
+    {
+      "title": "Reality of the Despair, the Assassin's Dagger is Swung",
+      "category": []
+    },
+    {
+      "title": "Horrible Ambitions",
+      "category": []
+    },
+    {
+      "title": "Gather Together! Group of the Strongest Shinigami!",
+      "category": []
+    },
+    {
+      "title": "Creeping Terror, the Second Victim",
+      "category": []
+    },
+    {
+      "title": "Break Through! The Trap Hidden in the Labyrinth",
+      "category": []
+    },
+    {
+      "title": "Death Game! The Missing Classmate",
+      "category": []
+    },
+    {
+      "title": "True Identity of the Devil, the Secret which is Revealed",
+      "category": []
+    },
+    {
+      "title": "Bount! The Ones Who Hunt Souls",
+      "category": []
+    },
+    {
+      "title": "Revival of the Substitute Team!",
+      "category": []
+    },
+    {
+      "title": "The Moment of Collision! An Evil Hand Draws Near to the Quincy",
+      "category": []
+    },
+    {
+      "title": "Water Attack! Escape from the Shutdown Hospital",
+      "category": []
+    },
+    {
+      "title": "Gathering at the Place of Fortune! The Man Who Makes His Move",
+      "category": []
+    },
+    {
+      "title": "Memories of an Eternally Living Clan",
+      "category": []
+    },
+    {
+      "title": "Assault From a Formidable Enemy! A Tiny Final Line of Defense?!",
+      "category": []
+    },
+    {
+      "title": "Grey Shadow, the Secret of the Dolls",
+      "category": []
+    },
+    {
+      "title": "Dissension in the Substitute Team?",
+      "category": []
+    },
+    {
+      "title": "Deadly Battle of Tears!",
+      "category": []
+    },
+    {
+      "title": "Slice the Invisible Enemy!",
+      "category": []
+    },
+    {
+      "title": "Annihilation of the Lieutenants!? Trap in the Underground Cave",
+      "category": []
+    },
+    {
+      "title": "Shinigami and Quincy, the Reviving Power",
+      "category": []
+    },
+    {
+      "title": "Invasion of the Shinigami World, Again",
+      "category": []
+    },
+    {
+      "title": "The Bount Assault! The Gotei 13's Destructive Earthquake",
+      "category": []
+    },
+    {
+      "title": "The Clash Approaches",
+      "category": []
+    },
+    {
+      "title": "Dance of the Wind-Splitting Cherry Blossoms",
+      "category": []
+    },
+    {
+      "title": "The Battle of the Three Extremes!",
+      "category": []
+    },
+    {
+      "title": "Slice the Enemy in the Middle of the Forest",
+      "category": []
+    },
+    {
+      "title": "Shinigami Vs. Shinigami! The Uncontrollable Power",
+      "category": []
+    },
+    {
+      "title": "The Last of the Special Forces",
+      "category": []
+    },
+    {
+      "title": "Clash of the Demon",
+      "category": []
+    },
+    {
+      "title": "The Last Quincy! The Exploding Power",
+      "category": []
+    },
+    {
+      "title": "Countdown to the Detonation",
+      "category": []
+    },
+    {
+      "title": "Life and Revenge!",
+      "category": []
+    },
+    {
+      "title": "The Swung-Down Edge! The Moment of Ruin",
+      "category": []
+    },
+    {
+      "title": "The Wailing Bount! The Last Clash",
+      "category": []
+    },
+    {
+      "title": "Thoughts in the Revolving Sky",
+      "category": []
+    },
+    {
+      "title": "Reopening of the Substitute Business! The Terrifying Transfer Student",
+      "category": []
+    },
+    {
+      "title": "Shock! The True Characters of the Fathers",
+      "category": []
+    },
+    {
+      "title": "The Commencement of War, Visored and Arrancar",
+      "category": []
+    },
+    {
+      "title": "Prelude to the Apocalypse, The Arrancar's Attack",
+      "category": []
+    },
+    {
+      "title": "Mission! The Shinigami Have Come",
+      "category": []
+    },
+    {
+      "title": "The Evil Eye",
+      "category": []
+    },
+    {
+      "title": "The Freezing White Blade",
+      "category": []
+    },
+    {
+      "title": "The Power that Breaks Everything",
+      "category": []
+    },
+    {
+      "title": "The Lucky Men",
+      "category": []
+    },
+    {
+      "title": "Clash! The Person Who Protects vs. The Person Who Suffers",
+      "category": []
+    },
+    {
+      "title": "Visored! The Power of the Awakened",
+      "category": []
+    },
+    {
+      "title": "The Nightmare Arrancar!",
+      "category": []
+    },
+    {
+      "title": "The Swooping Descent of the Dark Emissary! The Propagation of Malice",
+      "category": []
+    },
+    {
+      "title": "The Invisible Enemy!",
+      "category": []
+    },
+    {
+      "title": "The Sorrowful Parting of Brother and Sister",
+      "category": []
+    },
+    {
+      "title": "The Beautiful Patissier",
+      "category": []
+    },
+    {
+      "title": "The Moment when the Sun Sets!",
+      "category": []
+    },
+    {
+      "title": "The Quickening of a New Power",
+      "category": []
+    },
+    {
+      "title": "Forest of Menos",
+      "category": []
+    },
+    {
+      "title": "The Shinigami Who Came from the Past",
+      "category": []
+    },
+    {
+      "title": "Through the Crumbling Forest, a Million Menos",
+      "category": []
+    },
+    {
+      "title": "Oath! Back Here Alive Again",
+      "category": []
+    },
+    {
+      "title": "The Raging Storm! Encounter with the Dancing Arrancar",
+      "category": []
+    },
+    {
+      "title": "The Devilish Research!",
+      "category": []
+    },
+    {
+      "title": "The Sorrowful Reunion",
+      "category": []
+    },
+    {
+      "title": "Release the Desperate Kidō",
+      "category": []
+    },
+    {
+      "title": "The United Attack of Friendship?",
+      "category": []
+    },
+    {
+      "title": "The Cutter of Souls",
+      "category": []
+    },
+    {
+      "title": "Right Arm of the Giant, Left Arm of the Devil",
+      "category": []
+    },
+    {
+      "title": "Testament, Your Heart is Right Here...",
+      "category": []
+    },
+    {
+      "title": "Shinigami and Quincy, the Battle of Madness",
+      "category": []
+    },
+    {
+      "title": "Desperate Effort vs. Desperate Effort!",
+      "category": []
+    },
+    {
+      "title": "Desperate Struggle Under the Moonlit Night, the Mysterious Assassin and Zanpakutō",
+      "category": []
+    },
+    {
+      "title": "The Profusion of Blooming Crimson Flowers",
+      "category": []
+    },
+    {
+      "title": "The Violent Wind that Rages",
+      "category": []
+    },
+    {
+      "title": "The Appearance of the Great Evil!",
+      "category": []
+    },
+    {
+      "title": "Break the Mirror's Boundary!",
+      "category": []
+    },
+    {
+      "title": "The Revenging Assassin",
+      "category": []
+    },
+    {
+      "title": "Mystery! The Sword-Consuming Assassin",
+      "category": []
+    },
+    {
+      "title": "The Nightmare Which is Shown",
+      "category": []
+    },
+    {
+      "title": "The Princess' Decision, the Sorrowful Bride",
+      "category": []
+    },
+    {
+      "title": "The Darkness Which Moves! Kibune's True Colors",
+      "category": []
+    },
+    {
+      "title": "The Assassin's Secret",
+      "category": []
+    },
+    {
+      "title": "The Fallen Shinigami's Pride",
+      "category": []
+    },
+    {
+      "title": "Hueco Mundo Chapter, Restart!",
+      "category": []
+    },
+    {
+      "title": "Irresistible, Puppet Show of Terror",
+      "category": []
+    },
+    {
+      "title": "The Ultimate Union!",
+      "category": []
+    },
+    {
+      "title": "Joining the Battle! The Strongest Shinigami Army Appears",
+      "category": []
+    },
+    {
+      "title": "The Quiet Anger",
+      "category": []
+    },
+    {
+      "title": "The Two Scientists",
+      "category": []
+    },
+    {
+      "title": "Holy Birth",
+      "category": []
+    },
+    {
+      "title": "The Hardest Body!?",
+      "category": []
+    },
+    {
+      "title": "Fierce Fighting Conclusion! Who's the Strongest?",
+      "category": []
+    },
+    {
+      "title": "The Past Chapter Begins! The Truth from 110 Years Ago",
+      "category": []
+    },
+    {
+      "title": "Elite! The Four Shinigami",
+      "category": []
+    },
+    {
+      "title": "Beautiful Little Devil Charlotte",
+      "category": []
+    },
+    {
+      "title": "Kira, The Battle Within Despair",
+      "category": []
+    },
+    {
+      "title": "The Most Evil Tag!?",
+      "category": []
+    },
+    {
+      "title": "A Miraculous Body!",
+      "category": []
+    },
+    {
+      "title": "All Lieutenants Annihilated! The Terrifying Demonic Beast",
+      "category": []
+    },
+    {
+      "title": "Fierce Fighting Concludes? Towards a New Battle!",
+      "category": []
+    },
+    {
+      "title": "Wonderful Error",
+      "category": []
+    },
+    {
+      "title": "Summer! Sea! Swimsuit Festival!!",
+      "category": []
+    },
+    {
+      "title": "Cry of the Soul? The Rug Shinigami is Born!",
+      "category": []
+    },
+    {
+      "title": "A New Enemy! The Materialization of Zanpakutō",
+      "category": []
+    },
+    {
+      "title": "Disappearing with the Cherry Blossoms",
+      "category": []
+    },
+    {
+      "title": "Delusion of the Heart",
+      "category": []
+    },
+    {
+      "title": "Zangetsu Becomes an Enemy",
+      "category": []
+    },
+    {
+      "title": "Friendship? Hatred?",
+      "category": []
+    },
+    {
+      "title": "Shinigami and Zanpakutō, Total Sortie",
+      "category": []
+    },
+    {
+      "title": "Deceived Shinigami! The World Collapse Crisis",
+      "category": []
+    },
+    {
+      "title": "Dragon of Ice and Dragon of Flame! The Strongest Showdown!",
+      "category": []
+    },
+    {
+      "title": "Offense and Defense of the Living World",
+      "category": []
+    },
+    {
+      "title": "Dark History! The Worst Shinigami is Born",
+      "category": []
+    },
+    {
+      "title": "The Truth Behind his Betrayal",
+      "category": []
+    },
+    {
+      "title": "Muramasa's True Identity Revealed",
+      "category": []
+    },
+    {
+      "title": "Final Chapter·Zanpakutō Unknown Tales",
+      "category": []
+    },
+    {
+      "title": "A New Enemy! The True Nature of the Beast Swords",
+      "category": []
+    },
+    {
+      "title": "Stray Snake, Tortured Monkey",
+      "category": []
+    },
+    {
+      "title": "Terror! The Monster That Lurks Underground",
+      "category": []
+    },
+    {
+      "title": "The Person with the Unknown Ability!",
+      "category": []
+    },
+    {
+      "title": "The Tragic Sword Fiend",
+      "category": []
+    },
+    {
+      "title": "Evolution?! The Menace of the Final Sword Fiend",
+      "category": []
+    },
+    {
+      "title": "Connected Hearts! The Left Fist Prepared for Death!",
+      "category": []
+    },
+    {
+      "title": "Beginning of Despair",
+      "category": []
+    },
+    {
+      "title": "The Unreachable Blade",
+      "category": []
+    },
+    {
+      "title": "Fury of the Shark!",
+      "category": []
+    },
+    {
+      "title": "The Suicidal Frozen Heavens Hundred Flowers Funeral!",
+      "category": []
+    },
+    {
+      "title": "The Approaching Breath of Death, the King Who Rules Over Death!",
+      "category": []
+    },
+    {
+      "title": "The Nightmare Returns...Revival of the Espada",
+      "category": []
+    },
+    {
+      "title": "The Reunion of Fate!",
+      "category": []
+    },
+    {
+      "title": "The Moment of Parting",
+      "category": []
+    },
+    {
+      "title": "Crown of Lies",
+      "category": []
+    },
+    {
+      "title": "Power of the Soul! Los Lobos, Attack!",
+      "category": []
+    },
+    {
+      "title": "Starrk, the Lone Battle",
+      "category": []
+    },
+    {
+      "title": "Chain of Sacrifice",
+      "category": []
+    },
+    {
+      "title": "The Hundred-Year Grudge",
+      "category": []
+    },
+    {
+      "title": "For the Sake of Justice?! The Man Who Deserted the Shinigami",
+      "category": []
+    },
+    {
+      "title": "Blade of Hatred!",
+      "category": []
+    },
+    {
+      "title": "It's All A Trap...Engineered Bonds!",
+      "category": []
+    },
+    {
+      "title": "The Forbidden Research",
+      "category": []
+    },
+    {
+      "title": "I Want to Live...!",
+      "category": []
+    },
+    {
+      "title": "The Developer of the Modified Souls",
+      "category": []
+    },
+    {
+      "title": "Invading Army Arc, Final Conclusion!",
+      "category": []
+    },
+    {
+      "title": "Fullbring, The Detested Power!",
+      "category": []
+    },
+    {
+      "title": "Changing History, Unchanging Heart",
+      "category": []
+    },
+    {
+      "title": "Memories in the Rain",
+      "category": []
+    },
+    {
+      "title": "The Sealed Sword Frenzy",
+      "category": []
+    }
+  ]
+} 

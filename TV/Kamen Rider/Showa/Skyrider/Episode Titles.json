@@ -1,0 +1,27 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Ghost Story Series - The Secret of the Phantom Building",
+        "category": []
+      },
+      {
+        "title": "Ghost Story Series - Zombie! The Monster is Revived",
+        "category": []
+      },
+      {
+        "title": "Ghost Story Series - Hōichi the Earless' 999 Ears",
+        "category": []
+      },
+      {
+        "title": "Ghost Story Series - The Werecat Wants Children's Blood!",
+        "category": []
+      },
+      {
+        "title": "Ghost Story Series - The Breakable Human! Fear of the Mirror's Center",
+        "category": []
+      }
+    ]
+  }
+  

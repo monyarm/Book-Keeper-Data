@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "The Beginning of N/Blood and Dreams",
+        "category": []
+      },
+      {
+        "title": "The One Who Continues After Z",
+        "category": []
+      }
+    ]
+  }
+  

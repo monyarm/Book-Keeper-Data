@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Ten-Faced Demon! God or Devil?",
+        "category": []
+      }
+    ]
+  }
+  

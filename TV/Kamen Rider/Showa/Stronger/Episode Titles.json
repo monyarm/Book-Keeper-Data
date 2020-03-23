@@ -1,0 +1,23 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "The Band of Demons Has Come!!",
+        "category": []
+      },
+      {
+        "title": "Ghost Story, The Demonic Easter!",
+        "category": []
+      },
+      {
+        "title": "Ghost Story, The Bottomless Swamp!",
+        "category": []
+      },
+      {
+        "title": "Ghost Story: The Cursed Old Castle!",
+        "category": []
+      }
+    ]
+  }
+  

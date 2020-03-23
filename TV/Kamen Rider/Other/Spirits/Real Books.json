@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Inherited Soul",
+        "category": []
+      },
+      {
+        "title": "Transcendent Apocalypse",
+        "category": []
+      }
+    ]
+  }
+  

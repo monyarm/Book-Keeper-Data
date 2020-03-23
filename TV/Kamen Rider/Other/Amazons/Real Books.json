@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Light of Fireflies",
+        "category": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "$schema": "../../../books-schema.json",
+    "sources": [],
+    "books": [
+        {
+            "title": "Book of Sunrise",
+            "category": []
+        },
+        {
+            "title": "Book of Bright Light",
+            "category": []
+        },
+        {
+            "title": "Book of Dark Night",
+            "category": []
+        },
+        {
+            "title": "Book of Gelel",
+            "category": [],
+            "description": "The Book of Gelel is a tome passed down from the royal family of a distant continent."
+        }
+    ]
+} 

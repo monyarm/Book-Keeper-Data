@@ -1,0 +1,35 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Man-Eating Sarracenian",
+        "category": []
+      },
+      {
+        "title": "Grim Reaper Chameleon",
+        "category": []
+      },
+      {
+        "title": "Bloodsucking Monster, Gebacondor",
+        "category": []
+      },
+      {
+        "title": "Raid of the Demon Sabotegron",
+        "category": []
+      },
+      {
+        "title": "Wrestler of the Devil, Pirasaurus",
+        "category": []
+      },
+      {
+        "title": "Doctor Death, the True Meaning of Terror?",
+        "category": []
+      },
+      {
+        "title": "Hell Ambassador!! The True Meaning of Fear?",
+        "category": []
+      }
+    ]
+  }
+  

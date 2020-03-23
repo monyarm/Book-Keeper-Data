@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Meet You at the End of the World",
+        "category": []
+      },
+      {
+        "title": "Hybrid Insector",
+        "category": []
+      }
+    ]
+  }
+  

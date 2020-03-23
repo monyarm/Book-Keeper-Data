@@ -1,0 +1,35 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Child of the Sun!",
+        "category": []
+      },
+      {
+        "title": "Covered in Light!",
+        "category": []
+      },
+      {
+        "title": "The Assassin in the Dreams",
+        "category": []
+      },
+      {
+        "title": "The Targeted Strange Demon Girl",
+        "category": []
+      },
+      {
+        "title": "The Artificial Sun of Terror!",
+        "category": []
+      },
+      {
+        "title": "Agent of the Majestic Emperor",
+        "category": []
+      },
+      {
+        "title": "A Shining Tomorrow!",
+        "category": []
+      }
+    ]
+  }
+  

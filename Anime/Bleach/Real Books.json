@@ -1,0 +1,74 @@
+{
+  "$schema": "../../../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "13 BLADEs",
+      "category": []
+    },
+    {
+      "title": "All Colour But The Black",
+      "category": []
+    },
+    {
+      "title": "Can't Fear Your Own World, Vol. I",
+      "category": []
+    },
+    {
+      "title": "Can't Fear Your Own World, Vol. II",
+      "category": []
+    },
+    {
+      "title": "Can't Fear Your Own World, Vol. III",
+      "category": []
+    },
+    {
+      "title": "Fade to Black, I Call Your Name",
+      "category": []
+    },
+    {
+      "title": "Letters From The Other Side",
+      "category": []
+    },
+    {
+      "title": "Memories of Nobody",
+      "category": []
+    },
+    {
+      "title": "Spirits Are Forever With You, Vol. I",
+      "category": []
+    },
+    {
+      "title": "Spirits Are Forever With You, Vol. II",
+      "category": []
+    },
+    {
+      "title": "The Death Save The Strawberry",
+      "category": []
+    },
+    {
+      "title": "The Hell Verse",
+      "category": []
+    },
+    {
+      "title": "The DiamondDust Rebellion, Another Hyōrinmaru",
+      "category": []
+    },
+    {
+      "title": "The Honey Dish Rhapsody",
+      "category": []
+    },
+    {
+      "title": "WE DO knot ALWAYS LOVE YOU",
+      "category": []
+    },
+    {
+      "title": "THE REBOOTED SOULS",
+      "category": []
+    },
+    {
+      "title": "Brave Souls",
+      "category": []
+    }
+  ]
+} 

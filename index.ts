@@ -1,6 +1,17 @@
 import Book from '../src/book';
 import BookGroup from '@/bookgroup';
 
+//#region Anime
+import Bleach_Real_Books from './Anime/Bleach/Real Books.json';
+import Bleach_In_Universe from './Anime/Bleach/In Universe.json';
+import Bleach_Episode_Titles from './Anime/Bleach/Episode Titles.json';
+import Naruto_Real_Books from './Anime/Bleach/Real Books.json';
+import Naruto_In_Universe from './Anime/Bleach/In Universe.json';
+import Naruto_Episode_Titles from './Anime/Bleach/Episode Titles.json';
+
+//#endregion
+
+
 //#region Books
 import Harry_Potter from './Book/Harry Potter.json';
 import Lovecraft from './Book/Lovecraft.json';
@@ -41,7 +52,7 @@ import MTG from './Tabletop Game/MTG.json';
 
 //#region TV
 import Doctor_Who from './TV/Doctor Who.json';
-import Kamen_Rider from './TV/Kamen Rider.json';
+
 //#endregion
 
 //#region Video Games
@@ -132,6 +143,7 @@ import Castlevania from './Video Game/Castlevania.json';
 import Fallout from './Video Game/Fallout.json';
 import Minecraft from './Video Game/Minecraft.json';
 import RuneScape from './Video Game/RuneScape.json';
+import Pokemon from './Video Game/Pokemon.json';
 //#endregion
 
 //#region Web
@@ -150,6 +162,35 @@ function convert(input: Array<any>) {
 }
 
 const BooksArray: BookGroup[] = [
+    new BookGroup('Anime', [
+        new BookGroup(
+            'Bleach', [
+                new BookGroup(
+                    'Episode Titles', convert(Bleach_Episode_Titles.books)
+                ),
+                new BookGroup(
+                    'In Universe', convert(Bleach_In_Universe.books)
+                ),
+                new BookGroup(
+                    'Real Books', convert(Bleach_Real_Books.books)
+                )
+            ]
+        ),
+        new BookGroup(
+            'Naruto', [
+                new BookGroup(
+                    'Episode Titles', convert(Naruto_Episode_Titles.books)
+                ),
+                new BookGroup(
+                    'In Universe', convert(Naruto_In_Universe.books)
+                ),
+                new BookGroup(
+                    'Real Books', convert(Naruto_Real_Books.books)
+                )
+            ]
+        )
+    ]
+    ),
     new BookGroup('Book', [
         new BookGroup(
             'Harry Potter', convert(Harry_Potter.books)
@@ -230,7 +271,9 @@ const BooksArray: BookGroup[] = [
             'Doctor Who', convert(Doctor_Who.books)
         ),
         new BookGroup(
-            'Kamen Rider', convert(Kamen_Rider.books)
+            'Kamen Rider', [
+                
+            ]
         )
     ]
     ),
@@ -345,6 +388,8 @@ const BooksArray: BookGroup[] = [
             'Minecraft', convert(Minecraft.books)
         ), new BookGroup(
             'Runescape', convert(RuneScape.books)
+        ), new BookGroup(
+            'Pokemon', convert(Pokemon.books)
         ),
     ]
     ),

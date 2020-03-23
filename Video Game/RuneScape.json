@@ -114,7 +114,9 @@
     },
     {
         "title": "A History of the Goblin Race",
-        "category": ["Scholarly","History","Biology"]
+        "category": ["Scholarly",
+"History",
+"Biology"]
     },
     {
         "title": "The Great Divide",

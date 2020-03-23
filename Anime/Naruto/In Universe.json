@@ -1,0 +1,72 @@
+{
+    "$schema": "../../../books-schema.json",
+    "sources": [],
+    "books": [
+        {
+            "title": "Book of Gelel",
+            "category": [],
+            "description": "The Book of Gelel is a tome passed down from the royal family of a distant continent."
+        },
+        {
+            "title": "Ero Ero Paradigm",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Paradise",
+            "translatedTitle": "Make-Out Paradise",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Violence",
+            "translatedTitle": "Make-Out Violence",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Innocense",
+            "translatedTitle": "Make-Out Innocense",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Tactics",
+            "translatedTitle": "Make-Out Tactics",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Strap",
+            "translatedTitle": "Make-Out Strap",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Pooltime",
+            "translatedTitle": "Make-Out Pooltime",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Icha Icha Emotion",
+            "translatedTitle": "Make-Out Dynamic",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Ero Ero Install",
+            "category": [
+                "Story"
+            ]
+        }
+    ]
+} 

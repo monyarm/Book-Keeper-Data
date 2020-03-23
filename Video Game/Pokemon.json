@@ -1,0 +1,164 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "The Haunted Gym",
+      "author": "Tracey West",
+      "category": []
+    },
+    {
+      "title": "Haunted!",
+      "author": "Tracey West",
+      "category": []
+    },
+    {
+      "title": "aunted Forest",
+      "author": "Tracey West",
+      "category": []
+    },
+    {
+      "title": "The Jewel of Life",
+      "category": []
+    },
+    {
+      "title": "Guardian Gods of the City of Water",
+      "category": []
+    },
+    {
+      "title": "Battle for the Bolt Badge",
+      "author": "Simcha Whitehill",
+      "category": []
+    },
+    {
+      "title": "Battle for the Zephyr Badge",
+      "author": "Jeniffer L. Johnson",
+      "category": []
+    },
+    {
+      "title": "Destiny Deoxys",
+      "author": "Tracey West",
+      "category": []
+    },
+    {
+      "title": "Emperor of the Crystal Tower",
+      "category": []
+    },
+    {
+      "title": "A Timeless Encounter",
+      "category": []
+    },
+    {
+      "title": "Wishing Star of the Seven Nights",
+      "category": []
+    },
+    {
+      "title": "Wish Mkaer",
+      "category": []
+    },
+    {
+      "title": "Sky Splitting Visitor",
+      "category": []
+    },
+    {
+      "title": "The Wave-Guiding Hero",
+      "category": []
+    },
+    {
+      "title": "Prince of the Sea",
+      "category": []
+    },
+    {
+      "title": "Temple of the Sea",
+      "category": []
+    },
+    {
+      "title": "The Sky's Bouquet",
+      "category": []
+    },
+    {
+      "title": "To a Conquering Spacetime",
+      "category": []
+    },
+    {
+      "title": "Master of Illusions",
+      "category": []
+    },
+    {
+      "title": "Ruler of Illusions",
+      "category": []
+    },
+    {
+      "title": "VS The Sacred Swordsman",
+      "category": []
+    },
+    {
+      "title": "VS The Sword of Justice",
+      "category": []
+    },
+    {
+      "title": "The Legend Awakened",
+      "category": []
+    },
+    {
+      "title": "The Cocoon of Destruction",
+      "category": []
+    },
+    {
+      "title": "The Archdjinni of the Rings",
+      "category": []
+    },
+    {
+      "title": "The Clash of Ages",
+      "category": []
+    },
+    {
+      "title": "The Mechanical Marvel",
+      "category": []
+    },
+    {
+      "title": "Legend of the Dragon King",
+      "category": []
+    },
+    {
+      "title": "Veilstone's Myth",
+      "category": []
+    },
+    {
+      "title": "A Horrific Myth",
+      "category": []
+    },
+    {
+      "title": "Snowpoint Temple Myth",
+      "category": []
+    },
+    {
+      "title": "Shamouti Island",
+      "category": []
+    },
+    {
+      "title": "The Towers of Ecruteak",
+      "category": []
+    },
+    {
+      "title": "Legend of the Regis",
+      "category": []
+    },
+    {
+      "title": "The Guardians of the Water Capital",
+      "category": []
+    },
+    {
+      "title": "Weather Trio",
+      "category": []
+    },
+    {
+      "title": "Forces of Nature",
+      "category": []
+    },
+    {
+      "title": "Guardian Deities",
+      "category": []
+    }
+  ]
+}

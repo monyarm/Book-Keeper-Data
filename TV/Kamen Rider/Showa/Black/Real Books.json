@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Project Mad Soldier",
+        "category": []
+      },
+      {
+        "title": "Battle of Demon's Army",
+        "category": []
+      }
+    ]
+  }
+  

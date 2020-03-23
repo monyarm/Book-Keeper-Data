@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "G.O.D., the Shadow of Fear!!",
+        "category": []
+      },
+      {
+        "title": "King Dark! The Demon's Invention!! ",
+        "category": []
+      }
+    ]
+  }
+  

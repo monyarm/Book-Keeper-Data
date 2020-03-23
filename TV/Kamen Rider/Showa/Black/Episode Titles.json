@@ -1,0 +1,87 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Monster Party",
+        "category": []
+      },
+      {
+        "title": "Strange? Strange Cyborg",
+        "category": []
+      },
+      {
+        "title": "The Devil's Laboratory",
+        "category": []
+      },
+      {
+        "title": "Run Through the Maze",
+        "category": []
+      },
+      {
+        "title": "The Secret Clairvoyance Mystery",
+        "category": []
+      },
+      {
+        "title": "The Restored Organism Mecha",
+        "category": []
+      },
+      {
+        "title": "The Devil's Trill",
+        "category": []
+      },
+      {
+        "title": "Starved Monsters",
+        "category": []
+      },
+      {
+        "title": "The Targeted Bizarre Academy",
+        "category": []
+      },
+      {
+        "title": "Friend!! Crossing the Sea",
+        "category": []
+      },
+      {
+        "title": "The Limit-Reaching Hellish Trap",
+        "category": []
+      },
+      {
+        "title": "Rider's Graveyard",
+        "category": []
+      },
+      {
+        "title": "The Fire-Spouting Dangerous Highway",
+        "category": []
+      },
+      {
+        "title": "The Scarab That Invites Hell",
+        "category": []
+      },
+      {
+        "title": "The Trophy's a Death Mask?",
+        "category": []
+      },
+      {
+        "title": "Aloha to an Assassin!",
+        "category": []
+      },
+      {
+        "title": "Revival?! Hell Prince",
+        "category": []
+      },
+      {
+        "title": "Showdown! Two Princes",
+        "category": []
+      },
+      {
+        "title": "The War Declaration of Love and Death ",
+        "category": []
+      },
+      {
+        "title": "The Dangerous Time Thief",
+        "category": []
+      }
+    ]
+  }
+  

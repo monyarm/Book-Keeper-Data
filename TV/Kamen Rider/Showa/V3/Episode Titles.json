@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "Camp of Terror: Mystery of the Underground Canal",
+        "category": []
+      },
+      {
+        "title": "Terror! Vampire From the Graveyard ",
+        "category": []
+      }
+    ]
+  }
+  
