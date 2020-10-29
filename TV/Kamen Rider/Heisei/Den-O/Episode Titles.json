@@ -1,0 +1,95 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "I Have Arrived!",
+        "category": []
+      },
+      {
+        "title": "A Clockwork Fiancé",
+        "category": []
+      },
+      {
+        "title": "That Man, Zero's Start",
+        "category": []
+      },
+      {
+        "title": "Let Me Say This to Start",
+        "category": []
+      },
+      {
+        "title": "Fighting Style",
+        "category": []
+      },
+      {
+        "title": "An Unspeakable Future",
+        "category": []
+      },
+      {
+        "title": "Enter the Prince, Kneel Down to Him!",
+        "category": []
+      },
+      {
+        "title": "The Prince's Goodbye Lullaby",
+        "category": []
+      },
+      {
+        "title": "The Ticket to God's Line",
+        "category": []
+      },
+      {
+        "title": "Schedule-Disrupting Fang",
+        "category": []
+      },
+      {
+        "title": "Too Lucky, Too Excited, Too Strange",
+        "category": []
+      },
+      {
+        "title": "Lucky Horror Show",
+        "category": []
+      },
+      {
+        "title": "Madam, How About the Fireworks?",
+        "category": []
+      },
+      {
+        "title": "The Time Interval Pianist",
+        "category": []
+      },
+      {
+        "title": "I Have the Face for It, Don't I?",
+        "category": []
+      },
+      {
+        "title": "Memory Update",
+        "category": []
+      },
+      {
+        "title": "Something Missing",
+        "category": []
+      },
+      {
+        "title": "Resolution of a Single-Action",
+        "category": []
+      },
+      {
+        "title": "Reliving a Blank Day",
+        "category": []
+      },
+      {
+        "title": "Now to Reveal Love and Truth",
+        "category": []
+      },
+      {
+        "title": "You Wept Over My End",
+        "category": []
+      },
+      {
+        "title": "Opposite Goodbyes...",
+        "category": []
+      }
+    ]
+  }
+  

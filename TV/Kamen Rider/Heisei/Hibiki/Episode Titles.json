@@ -1,0 +1,179 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "The Echoing Oni",
+        "category": []
+      },
+      {
+        "title": "The Howling Spider",
+        "category": []
+      },
+      {
+        "title": "Falling Voice",
+        "category": []
+      },
+      {
+        "title": "Running Ichiro",
+        "category": []
+      },
+      {
+        "title": "Melting Sea",
+        "category": []
+      },
+      {
+        "title": "Beating Soul",
+        "category": []
+      },
+      {
+        "title": "Majestic Breath Oni",
+        "category": []
+      },
+      {
+        "title": "Shouting Wind",
+        "category": []
+      },
+      {
+        "title": "A Squirming Evil Heart",
+        "category": []
+      },
+      {
+        "title": "The Oni Who Stands in Line",
+        "category": []
+      },
+      {
+        "title": "Swallowing Wall",
+        "category": []
+      },
+      {
+        "title": "Revealed Secrets",
+        "category": []
+      },
+      {
+        "title": "Disrupting Fate",
+        "category": []
+      },
+      {
+        "title": "Devouring Douji",
+        "category": []
+      },
+      {
+        "title": "Weakening Thunder",
+        "category": []
+      },
+      {
+        "title": "Roaring Oni",
+        "category": []
+      },
+      {
+        "title": "Unbroken Hurricane",
+        "category": []
+      },
+      {
+        "title": "Strumming Warrior",
+        "category": []
+      },
+      {
+        "title": "The Pure Sound",
+        "category": []
+      },
+      {
+        "title": "Gathering Demons",
+        "category": []
+      },
+      {
+        "title": "Becoming a Cocoon",
+        "category": []
+      },
+      {
+        "title": "Summer Training",
+        "category": []
+      },
+      {
+        "title": "Burning Crimson",
+        "category": []
+      },
+      {
+        "title": "Running Azure",
+        "category": []
+      },
+      {
+        "title": "Counting the Days",
+        "category": []
+      },
+      {
+        "title": "Passing Down the Bond",
+        "category": []
+      },
+      {
+        "title": "Undying Malice",
+        "category": []
+      },
+      {
+        "title": "Shining Boy",
+        "category": []
+      },
+      {
+        "title": "Forging Premonition",
+        "category": []
+      },
+      {
+        "title": "Surpassing Father",
+        "category": []
+      },
+      {
+        "title": "Bursting Song",
+        "category": []
+      },
+      {
+        "title": "The Armed Blade",
+        "category": []
+      },
+      {
+        "title": "Beloved Beauty",
+        "category": []
+      },
+      {
+        "title": "Fallen Angel",
+        "category": []
+      },
+      {
+        "title": "Lightning Living Again",
+        "category": []
+      },
+      {
+        "title": "Your Beginning",
+        "category": []
+      },
+      {
+        "title": "The Awakening Teacher and Student",
+        "category": []
+      },
+      {
+        "title": "Ferocious Demons",
+        "category": []
+      },
+      {
+        "title": "An Unchangeable Body",
+        "category": []
+      },
+      {
+        "title": "Forbidden Secret",
+        "category": []
+      },
+      {
+        "title": "Dying a Glorious Death, Zanki",
+        "category": []
+      },
+      {
+        "title": "Mastering the Oni Way",
+        "category": []
+      },
+      {
+        "title": "Dreaming of Tomorrow",
+        "category": []
+      }
+    ]
+  }
+  

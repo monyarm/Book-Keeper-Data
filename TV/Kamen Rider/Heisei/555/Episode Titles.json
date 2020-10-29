@@ -1,0 +1,94 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": [],
+    "books":[
+      {
+        "title": "The Belt's Power",
+        "category": []
+      },
+      {
+        "title": "The King's Sleep…",
+        "category": []
+      },
+      {
+        "title": "The Power of Dreams",
+        "category": []
+      },
+      {
+        "title": "The Protector of Dreams",
+        "category": []
+      },
+      {
+        "title": "The Enigmatic Rider",
+        "category": []
+      },
+      {
+        "title": "The Enigmatic Belt",
+        "category": []
+      },
+      {
+        "title": "Human Heart",
+        "category": []
+      },
+      {
+        "title": "Narrow Escape from Death",
+        "category": []
+      },
+      {
+        "title": "The Beautiful Assassin",
+        "category": []
+      },
+      {
+        "title": "Accelerating Spirits",
+        "category": []
+      },
+      {
+        "title": "The Door to Darkness",
+        "category": []
+      },
+      {
+        "title": "The Dark Laboratory",
+        "category": []
+      },
+      {
+        "title": "Dark Clover",
+        "category": []
+      },
+      {
+        "title": "Intertwined Threads",
+        "category": []
+      },
+      {
+        "title": "True Form",
+        "category": []
+      },
+      {
+        "title": "The Resurrection Riddle",
+        "category": []
+      },
+      {
+        "title": "The Wandering Spirit",
+        "category": []
+      },
+      {
+        "title": "Proof of Humanity",
+        "category": []
+      },
+      {
+        "title": "Broken Wings",
+        "category": []
+      },
+      {
+        "title": "King's Awakening",
+        "category": []
+      },
+      {
+        "title": "King's Appearance",
+        "category": []
+      },
+      {
+        "title": "A Sign of Destruction",
+        "category": []
+      }
+    ]
+}

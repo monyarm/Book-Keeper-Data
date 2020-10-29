@@ -1,0 +1,94 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": [],
+    "books":[
+      {
+        "title": "The Secret Story's Birth",
+        "category": []
+      },
+      {
+        "title": "Giant Spider Counterattack",
+        "category": []
+      },
+      {
+        "title": "The Monster's Antique Store",
+        "category": []
+      },
+      {
+        "title": "A New Species is Born?",
+        "category": []
+      },
+      {
+        "title": "The Fourth, Zolda",
+        "category": []
+      },
+      {
+        "title": "Knight's Crisis",
+        "category": []
+      },
+      {
+        "title": "The Mysterious Empty Train",
+        "category": []
+      },
+      {
+        "title": "Revival Day",
+        "category": []
+      },
+      {
+        "title": "Iron Mask Legend",
+        "category": []
+      },
+      {
+        "title": "Card of Destiny",
+        "category": []
+      },
+      {
+        "title": "The Grieving Knight",
+        "category": []
+      },
+      {
+        "title": "Rider Gathering",
+        "category": []
+      },
+      {
+        "title": "Changing Destiny",
+        "category": []
+      },
+      {
+        "title": "The 13th Rider",
+        "category": []
+      },
+      {
+        "title": "Time Vent",
+        "category": []
+      },
+      {
+        "title": "The Mirror's Magic",
+        "category": []
+      },
+      {
+        "title": "Imperer",
+        "category": []
+      },
+      {
+        "title": "The Hero Fights",
+        "category": []
+      },
+      {
+        "title": "Glassy Happiness",
+        "category": []
+      },
+      {
+        "title": "The Final 3 Days",
+        "category": []
+      },
+      {
+        "title": "Granting a Wish",
+        "category": []
+      },
+      {
+        "title": "A New Life",
+        "category": []
+      }
+    ]
+}

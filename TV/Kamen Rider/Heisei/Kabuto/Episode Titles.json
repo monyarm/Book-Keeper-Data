@@ -1,0 +1,99 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+      {
+        "title": "The Strongest Man",
+        "category": []
+      },
+      {
+        "title": "The First Two-Step Transformation",
+        "category": []
+      },
+      {
+        "title": "I am Justice!!",
+        "category": []
+      },
+      {
+        "title": "An Unthinkable Storm",
+        "category": []
+      },
+      {
+        "title": "Restored Memories!!",
+        "category": []
+      },
+      {
+        "title": "Birth of a Special Compilation",
+        "category": []
+      },
+      {
+        "title": "Riddle + Riddle = X",
+        "category": []
+      },
+      {
+        "title": "Arrogant Investigation",
+        "category": []
+      },
+      {
+        "title": "Love That Shook the Earth",
+        "category": []
+      },
+      {
+        "title": "Me!? A Murderer",
+        "category": []
+      },
+      {
+        "title": "Why!? Death",
+        "category": []
+      },
+      {
+        "title": "Shocking Fact",
+        "category": []
+      },
+      {
+        "title": "Puzzle Unraveled!!",
+        "category": []
+      },
+      {
+        "title": "The Sprouting Adjutant",
+        "category": []
+      },
+      {
+        "title": "Breaking Super Evolution",
+        "category": []
+      },
+      {
+        "title": "The Hellish Brothers",
+        "category": []
+      },
+      {
+        "title": "The Saddest Battle",
+        "category": []
+      },
+      {
+        "title": "The Strongest Defeated",
+        "category": []
+      },
+      {
+        "title": "Worst Terror VS Worst Fear",
+        "category": []
+      },
+      {
+        "title": "That Which We Aim For",
+        "category": []
+      },
+      {
+        "title": "Who You Will Live With",
+        "category": []
+      },
+      {
+        "title": "Rushing into the Last Chapter",
+        "category": []
+      },
+      {
+        "title": "Path of Heaven",
+        "category": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,86 @@
+{
+    "$schema": "../../../../../books-schema.json",
+    "sources": [],
+    "books":[
+      {
+        "title": "The Indigo Warrior",
+        "category": []
+      },
+      {
+        "title": "Immortality's Mysteries",
+        "category": []
+      },
+      {
+        "title": "The Challenge to the Past",
+        "category": []
+      },
+      {
+        "title": "Spirits That Manipulate Darkness",
+        "category": []
+      },
+      {
+        "title": "One Who Conquers Darkness",
+        "category": []
+      },
+      {
+        "title": "The Escape From Darkness",
+        "category": []
+      },
+      {
+        "title": "Mysterious Hunters",
+        "category": []
+      },
+      {
+        "title": "A Traitor's Sprint",
+        "category": []
+      },
+      {
+        "title": "The Power Which Moves Me",
+        "category": []
+      },
+      {
+        "title": "The Trembling Heart…",
+        "category": []
+      },
+      {
+        "title": "Lost Memories",
+        "category": []
+      },
+      {
+        "title": "The 53rd Being",
+        "category": []
+      },
+      {
+        "title": "The Destroyer's Secret",
+        "category": []
+      },
+      {
+        "title": "Category King",
+        "category": []
+      },
+      {
+        "title": "Towards a New Destiny",
+        "category": []
+      },
+      {
+        "title": "One Who Takes Hold of Destiny",
+        "category": []
+      },
+      {
+        "title": "Parting With the Past",
+        "category": []
+      },
+      {
+        "title": "A Desire to Get Stronger",
+        "category": []
+      },
+      {
+        "title": "The Ruler's Seal",
+        "category": []
+      },
+      {
+        "title": "Prologue to Destruction",
+        "category": []
+      }
+    ]
+}
