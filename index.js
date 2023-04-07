@@ -15,7 +15,7 @@ import Doctor_Who from './TV/Doctor Who.json';
 import Video_Game from '@book/Video Game';
 import Web from '@book/Web';
 
-const BooksArray = [
+const Books = new BookGroup('All', [
     Anime,
     Book,
     Cartoon,
@@ -29,6 +29,6 @@ const BooksArray = [
     ]),
     Video_Game,
     Web
-];
-export default BooksArray;
+]);
+export default Books;
 //# sourceMappingURL=index.js.map
