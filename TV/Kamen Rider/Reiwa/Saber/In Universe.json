@@ -1,0 +1,259 @@
+{
+    "$schema": "../../../../../books-schema.json Wonder Ride Book",
+    "sources": ["https://kamenrider.fandom.com/"],
+    "books": [
+        {
+            "title": "Brave Dragon Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Ultimate Bahamut Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Tenkuu no Pegasus Wonder Ride Book",
+            "translatedTitle": "Heaven's Pegasus Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Tri Cerberus Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Genbu Shinwa Wonder Ride Book",
+            "translatedTitle": "Black Turtle Legend Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Jaaku Dragon Wonder Ride Book",
+            "translatedTitle": "Evil Dragon Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Eternal Phoenix Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Amazing Siren Wonder Ride Book",
+            "category": []
+          },{
+            "title": "Jaou Dragon Wonder Ride Book",
+            "translatedTitle": "Snake King Dragon Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Emotional Dragon Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Draconic Knight Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "X-Swordsman Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Primitive Dragon Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Elemental Dragon Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Gaikotsu Ninjaden Wonder Ride Book",
+            "translatedTitle": "Skeleton Ninja Legend Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Lion Senki Wonder Ride Book",
+            "translatedTitle": "Lion War Chronicle Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Storm Eagle Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Needle Hedgehog Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Konchuu Daikyakka Wonder Ride Book",
+            "translatedTitle": "Great Bug Encyclopedia Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Ocean History Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "King Lion Daisenki Wonder Ride Book",
+            "translatedTitle": "King Lion Great War Chronicle Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Tategami Hyojuusenki Wonder Ride Book",
+            "translatedTitle": "Mane Ice Beast War Chronicle Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Lamp Do Alangina Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Jackun to Domamenoki Wonder Ride Book",
+            "translatedTitle": "Jack and the Earth Bean's Tree Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Peter Fantasista Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Sarutobi Ninjaden Wonder Ride Book",
+            "translatedTitle": "Sarutobi Ninja Legend Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Kobuta 3Kyoudai Wonder Ride Book",
+            "translatedTitle": "Three Piglet Brothers Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "King Excalibur Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Saiyuu Journey Wonder Ride Book",
+            "translatedTitle": "Western Bound Journey Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Hanselnuts to Gretel Wonder Ride Book",
+            "translatedTitle": "Hanselnuts and Gretel Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Bremen no Rock Band Wonder Ride Book",
+            "translatedTitle": "Rock Band of Bremen Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Kin no Buki Gin no Buki Wonder Ride Book",
+            "translatedTitle": "The Gold and Silver Weapons Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Houshin Kamen Engi Wonder Ride Book",
+            "translatedTitle": "Masked Story of Investiture of the Gods Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Kirin no Ongaeshi Wonder Ride Book",
+            "translatedTitle": "The Giraffe's Repayment Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Osha Jizou San Wonder Ride Book",
+            "translatedTitle": "Fashionable Jizou-San Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Bakusou Usagi to Kame Wonder Ride Book",
+            "translatedTitle": "Roaring Rabbit and Turtle Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Tsuki no Hime Kaguyan Wonder Ride Book",
+            "translatedTitle": "Princess of the Moon Kaguyan Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Issun Bushi Wonder Ride Book",
+            "translatedTitle": "One-Sun Samurai Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Sarukani Wars Wonder Ride Book",
+            "translatedTitle": "Monkey Crab Wars Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Daishougun Momoichirou Wonder Ride Book",
+            "translatedTitle": "Great Shogun Momoichirou Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Daikengou Urashimajirou Wonder Ride Book",
+            "translatedTitle": "Great Sword Master Urashimajirou Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Daiyokozuna Kinzaburou Wonder Ride Book",
+            "translatedTitle": "Great Yokozuna Kinzaburo Wonder Ride Book",
+            "category": []
+          },{
+            "title": "Arabiana Night Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Book Gate Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Omni Force Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Grimoire Wonder Ride Book",
+            "category": []
+          },
+          {
+            "title": "Wonder Almighty Wonder Ride Book",
+            "category": []
+          },
+          {
+              "title": "Wonder World Story of Kaenken Rekka Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Suiseiken Nagare Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Raimeiken Ikazuchi Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Gekido Wonder Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Fuusouken Hayate Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Onjuuken Suzune Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Ankokuken Kurayami Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Mumeiken Kyomu Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Mumeiken Kyomu Wonder Ride Book",
+              "category": []
+          },
+          {
+              "title": "Wonder World Story of Eneiken Noroshi Wonder Ride Book",
+              "category": []
+          }
+    ]
+  }
+  
